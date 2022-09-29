@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning PHP and JavaScript.
 
 <!--
 **MejiaAle01/MejiaAle01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
