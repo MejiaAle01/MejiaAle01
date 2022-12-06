@@ -16,7 +16,7 @@
 </ul>
 - 🌱 I’m currently learning JavaScript.
 <br>
-- I want to learn Framework Laravel, Angular and React Native :exclamation: and as programming language C# :grey_exclamation:
+- I want to learn Frameworks Codeigniter, Laravel, Angular and React Native:exclamation:
 <br>
 <b> Thanks for reading </b>
 
