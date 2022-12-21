@@ -11,14 +11,14 @@
   <li> HTML </li>
   <li> CSS </li>
   <li> MySQL </li>
-  <li> SQL Server </li>
   <li> Bootstrap </li>
 </ul>
-- 🌱 I’m currently learning JavaScript.
+🔭 I’m currently learning JavaScript and PostgreSQL.
 <br>
-- I want to learn Frameworks Codeigniter, Laravel, Angular and React Native:exclamation:
+🌱 I want to learn Frameworks Codeigniter, Laravel, Angular and React Native:exclamation:
 <br>
-<b> Thanks for reading </b>
+<br>
+<b> Thanks for reading :relaxed: </b>
 
 <!--
 **MejiaAle01/MejiaAle01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
