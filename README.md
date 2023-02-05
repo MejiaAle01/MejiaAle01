@@ -13,9 +13,9 @@
   <li> MySQL </li>
   <li> Bootstrap </li>
 </ul>
-🔭 I’m currently learning JavaScript and PostgreSQL.
+🔭 I’m currently learning JavaScript, Framework Codeigniter and PostgreSQL.
 <br>
-🌱 I want to learn Frameworks Codeigniter, Laravel and Angular:exclamation:
+🌱 I want to learn Frameworks, Laravel and Angular:exclamation:
 <br>
 <br>
 <b> Thanks for reading :relaxed: </b>
