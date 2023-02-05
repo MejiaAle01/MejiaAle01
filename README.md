@@ -15,7 +15,7 @@
 </ul>
 🔭 I’m currently learning JavaScript and PostgreSQL.
 <br>
-🌱 I want to learn Frameworks Codeigniter, Laravel, Angular and React Native:exclamation:
+🌱 I want to learn Frameworks Codeigniter, Laravel and Angular:exclamation:
 <br>
 <br>
 <b> Thanks for reading :relaxed: </b>
