@@ -1,36 +1,34 @@
-### Hi there 👋
-<p> Welcome here you will find a description about me </p>
-
-<h4> About me :man: </h4>
-<p> I'm a 22 year old student, currently studying Systems and Computer Engineering, empathic, creative, kind and motivator, I like video games and tried to learn new knowledge and improve as a programmer. </p>
-<p> See my portfolio :point_right: <a href="https://mejiaale01.github.io" title="Portfolio"> Alejandro Mejía </a>
-
-<h4> Skills :sparkles: </h4>
-<ul>
-  <li> PHP </li>
-  <li> HTML </li>
-  <li> CSS </li>
-  <li> MySQL </li>
-  <li> Bootstrap </li>
-</ul>
-🔭 I’m currently learning JavaScript, Framework Codeigniter and PostgreSQL.
+<h1 align="center"> Hi 👋, I'm Alejandro Mejía </h1>
+<h3 align="center"> A student of Systems and Computer Engineering | Full stack developer </h3>
+<h3> About me :man: </h3>
+<p> I'm a 22 year old student, currently studying Systems and Computer Engineering, empathic, creative, kind and motivator, I like video games and tried to learn new knowledge and improve as a developer. </p>
+<p> 🔭 I’m currently learning JavaScript, Framework Codeigniter and PostgreSQL. </p>
+<p> 🌱 I want to learn Frameworks Laravel and Angular:exclamation: </p>
+<h3> Skills :sparkles: </h3>
+<img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Bulma-00D1B2?logo=bulma&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
 <br>
-🌱 I want to learn Frameworks, Laravel and Angular:exclamation:
-<br>
-<br>
+<h3 align="left"> Connect with me: </h3>
+<p align="left">
+  <a href="https://linkedin.com/in/alejandro-mejía-web-developer" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-mejía-web-developer" height="30" width="40" />
+  </a>
+</p>
+<h3 align="left"> Portfolio 👨‍💻 </h3>
+<p>
+  See my portfolio :point_right:
+  <a href="https://mejiaale01.github.io" title="Portfolio"><b> Alejandro Mejía </b></a>
+</p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mejiaale01&show_icons=true&locale=en&layout=compact" alt="mejiaale01" />
+</p>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mejiaale01&" alt="mejiaale01" />
+</p>
 <b> Thanks for reading :relaxed: </b>
-
-<!--
-**MejiaAle01/MejiaAle01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
