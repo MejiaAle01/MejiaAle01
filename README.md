@@ -39,5 +39,4 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-mejía-web-developer" height="30" width="40" />
   </a>
 </p>
-<br>
-<b> Thanks for reading :relaxed: </b>
+<h4> Thanks for reading :relaxed: </h4>
