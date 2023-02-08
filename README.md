@@ -20,7 +20,7 @@
   See my portfolio :point_right:
   <a href="https://mejiaale01.github.io" title="Portfolio"><b> Alejandro Mejía </b></a>
 </p>
-<h2> Stats  </h2>
+<h2> Stats :chart_with_upwards_trend: </h2>
 <table>
   <tbody>
     <tr>
@@ -33,7 +33,7 @@
     </tr>
   </tbody>
 </table>
-<h2 align="left"> Connect with me: </h2>
+<h2 align="left"> Connect with me: :iphone: </h2>
 <p>
   <a href="https://linkedin.com/in/alejandro-mejía-web-developer" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-mejía-web-developer" height="30" width="40" />
