@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there! 👋, I'm Alejandro Mejía </h1>
-<h3 align="center"> A student of Systems and Computer Engineering | Full stack web developer </h3>
+<h3 align="center"> A student of Systems and Computer Engineering | Full Stack Web Developer </h3>
 <h2> About me :man: </h2>
 <p> I'm a 22 year old student, currently studying Systems and Computer Engineering, empathic, creative, kind and motivator, I like video games and tried to learn new knowledge and improve as a developer. </p>
 <p> 🔭 I’m currently learning JavaScript, Framework Codeigniter and PostgreSQL. </p>
