@@ -17,8 +17,11 @@
 </p>
 <h2 align="left"> Portfolio 👨‍💻 </h2>
 <p>
-  See my portfolio :point_right:
-  <a href="https://portfolio-alejandromejia.netlify.app/" target="blank"><b> Click here! </b></a>
+  See my portfolio ⤵️
+  <br>
+  <a href="https://portfolio-alejandromejia.netlify.app/" target="blank">
+     <img src="https://img.shields.io/badge/-Click%20Here-26689A?&logoColor=white&style=for-the-badge">
+  </a>
 </p>
 <h2> Stats :chart_with_upwards_trend: </h2>
 <table>
