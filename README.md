@@ -18,7 +18,7 @@
 <h2 align="left"> Portfolio 👨‍💻 </h2>
 <p>
   See my portfolio :point_right:
-  <a href="https://mejiaale01.github.io" title="Portfolio"><b> Alejandro Mejía </b></a>
+  <a href="https://portfolio-alejandromejia.netlify.app/" target="blank"><b> Click here! </b></a>
 </p>
 <h2> Stats :chart_with_upwards_trend: </h2>
 <table>
