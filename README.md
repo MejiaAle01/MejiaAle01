@@ -19,7 +19,7 @@
 <p>
   See my portfolio ⤵️
   <br>
-  <a href="https://portfolio-alejandromejia.netlify.app/" target="blank">
+  <a href="https://portfolio-alejandromejia.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/-Click%20Here-26689A?&logoColor=white&style=for-the-badge">
   </a>
 </p>
@@ -38,7 +38,7 @@
 </table>
 <h2 align="left"> Connect with me: :iphone: </h2>
 <p>
-  <a href="https://linkedin.com/in/alejandro-mejía-web-developer" target="blank">
+  <a href="https://linkedin.com/in/alejandro-mejía-web-developer" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-mejía-web-developer" height="30" width="40" />
   </a>
 </p>
