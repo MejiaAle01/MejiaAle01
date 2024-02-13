@@ -3,7 +3,7 @@
 <h2> About me :man: </h2>
 <p> I'm a 23 year old student, currently studying Systems and Computer Engineering, empathic, creative. I like video games and tried to learn new knowledge and improve as a developer. </p>
 <p> 🔭 I’m currently learning JavaScript, Codeigniter Framework, Laravel Framework and PostgreSQL. </p>
-<p> 🌱 I want to learn Frameworks Angular and VueJS:exclamation: </p>
+<p> 🌱 I want to learn Frameworks Angular and VueJS :exclamation: </p>
 <h2> Skills :sparkles: </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge">
