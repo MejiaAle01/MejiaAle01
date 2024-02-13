@@ -2,8 +2,8 @@
 <h3 align="center"> A student of Systems and Computer Engineering | Web Developer Junior </h3>
 <h2> About me :man: </h2>
 <p> I'm a 23 year old student, currently studying Systems and Computer Engineering, empathic, creative. I like video games and tried to learn new knowledge and improve as a developer. </p>
-<p> 🔭 I’m currently learning JavaScript, Framework Codeigniter and PostgreSQL. </p>
-<p> 🌱 I want to learn Frameworks Laravel and Angular:exclamation: </p>
+<p> 🔭 I’m currently learning JavaScript, Codeigniter Framework, Laravel Framework and PostgreSQL. </p>
+<p> 🌱 I want to learn Frameworks Angular and VueJS:exclamation: </p>
 <h2> Skills :sparkles: </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge">
@@ -40,12 +40,6 @@
 <p>
   <a href="https://linkedin.com/in/alejandro-mejía-web-developer" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-mejía-web-developer" height="30" width="40" />
-  </a>
-  <a href="https://t.me/MejiaAle" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-telegram" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-      <path d="M15 10l-4 4l6 6l4 -16l-18 7l4 2l2 6l3 -4" />
-    </svg>
   </a>
 </p>
 <h3> Thanks for reading :relaxed: </h3>
