@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there! 👋, I'm Alejandro Mejía </h1>
 <h3 align="center"> A student of Systems and Computer Engineering | Web Developer Junior </h3>
 <h2> About me :man: </h2>
-<p> I'm a 23 year old student, currently studying Systems and Computer Engineering, empathic, creative. I like video games and tried to learn new knowledge and improve as a developer. </p>
+<p> I'm a 24 year old student, currently studying Systems and Computer Engineering, empathic, creative. I like video games and tried to learn new knowledge and improve as a developer. </p>
 <p> 🔭 I’m currently learning JavaScript, Laravel Framework and PostgreSQL. </p>
 <p> 🌱 I want to learn VueJS Framework :exclamation: </p>
 <h2> Skills :sparkles: </h2>
@@ -28,9 +28,6 @@
 <table>
   <tbody>
     <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mejiaale01&" alt="mejiaale01" />
-      </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mejiaale01&show_icons=true&locale=en&layout=compact" alt="mejiaale01" />
       </td>
